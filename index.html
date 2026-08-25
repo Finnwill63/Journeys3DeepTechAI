@@ -51,6 +51,8 @@ header{border-bottom:1px solid var(--rule);background:color-mix(in srgb,var(--bg
 .fcard p{margin:0;font-size:14.5px;color:var(--muted);line-height:1.45}
 .fcard .go{margin-top:8px;font-size:13.5px;font-weight:600;color:var(--found)}
 .fcard.alt .k{color:var(--teal)} .fcard.alt:hover{border-color:var(--teal)} .fcard.alt .go{color:var(--teal)}
+.fcard.wide{grid-column:1/-1}
+.fcard.tool .k{color:var(--spec)} .fcard.tool:hover{border-color:var(--spec)} .fcard.tool .go{color:var(--spec)}
 .rhythm{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
 .rc{background:var(--surface);border:1px solid var(--rule);border-radius:12px;padding:15px 16px;border-top:3px solid var(--found)}
 .rc.g{border-top-color:var(--gate)} .rc.d{border-top-color:var(--spec)}
@@ -125,6 +127,12 @@ footer{border-top:1px solid var(--rule);margin-top:48px;padding:24px 0 64px;colo
     <h3>Your Intelligence Page</h3>
     <p>Each team has its own live page of world developments that matter to your venture - refreshed weekly. Find yours below.</p>
     <span class="go">Jump to team pages →</span>
+  </a>
+  <a class="fcard wide tool" href="https://finnwill63.github.io/Journeys3DeepTechAI/bench.html" target="_blank" rel="noopener noreferrer">
+    <span class="k">For mentors &amp; teams</span>
+    <h3>Mentor Bench</h3>
+    <p>Match each of the 12 teams to the mentors on the bench - the filters seed from a team's sectors and needs, mentors re-rank by fit, and the chips that matched are outlined so you can see why each surfaced.</p>
+    <span class="go">Open the mentor bench →</span>
   </a>
  </div>
 </section>
