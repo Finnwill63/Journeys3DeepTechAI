@@ -34,7 +34,8 @@ header{border-bottom:1px solid var(--rule);background:color-mix(in srgb,var(--bg
 :root[data-theme="dark"] .hi-logo.light{display:none}
 :root[data-theme="dark"] .hi-logo.dark{display:block}
 .hero{padding:60px 0 20px}
-.hero h1{font-family:"Newsreader",Georgia,serif;font-weight:600;font-size:clamp(36px,6vw,60px);line-height:1.03;letter-spacing:-.02em;margin:0 0 18px;text-wrap:balance;max-width:15ch}
+.hero h1{font-family:"Newsreader",Georgia,serif;font-weight:600;font-size:clamp(28px,4.4vw,50px);line-height:1.08;letter-spacing:-.02em;margin:0 0 18px;white-space:nowrap;max-width:none}
+@media (max-width:760px){.hero h1{white-space:normal;text-wrap:balance}}
 .hero p{font-size:18px;color:var(--muted);max-width:60ch;margin:0}
 .hero .addr{font-size:15px;font-weight:500;color:var(--ink);margin:2px 0 0}
 .dates{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
@@ -88,7 +89,7 @@ footer{border-top:1px solid var(--rule);margin-top:48px;padding:24px 0 64px;colo
 </div></header>
 
 <section class="hero wrap">
- <h1>Everything you need for Journeys 3 Deep Tech and AI Track</h1>
+ <h1>Everything you need for the<br>Journeys 3 Deep Tech and AI Track</h1>
  <p class="addr">Fabianinkatu 24, 4th Floor</p>
  <div class="dates">
    <span class="date"><b>31 Aug</b> 17:00 · Kickoff</span>
