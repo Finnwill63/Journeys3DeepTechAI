@@ -1,0 +1,404 @@
+[
+ {
+  "team": "AccuPredix",
+  "blurb": "AI demand-forecasting for SMEs",
+  "needtags": [
+   "GTM/sales",
+   "Fundraising",
+   "Business model",
+   "Legal/IP",
+   "Partnerships"
+  ],
+  "matches": [
+   {
+    "name": "Hanna Helin",
+    "score": 7.7,
+    "why": "GTM/sales · strategy/BM · partnerships · AI/data sector  (tentative, USA)",
+    "cap": "Two",
+    "base": "USA"
+   },
+   {
+    "name": "Veli-pekka Luoma",
+    "score": 7.5,
+    "why": "GTM/sales · strategy/BM · partnerships · cross-sector",
+    "cap": "Two",
+    "base": "Finland"
+   },
+   {
+    "name": "Geoffroy Van Humbeeck",
+    "score": 7.2,
+    "why": "GTM/sales · strategy/BM · partnerships · cross-sector  (Belgium)",
+    "cap": "More",
+    "base": "Belgium"
+   }
+  ]
+ },
+ {
+  "team": "AgentFormers",
+  "blurb": "On-prem enterprise AI agents",
+  "needtags": [
+   "GTM/sales",
+   "Fundraising",
+   "Business model",
+   "Legal/IP",
+   "Partnerships",
+   "Team/hiring"
+  ],
+  "matches": [
+   {
+    "name": "Hanna Helin",
+    "score": 7.7,
+    "why": "GTM/sales · strategy/BM · partnerships · AI/data sector  (tentative, USA)",
+    "cap": "Two",
+    "base": "USA"
+   },
+   {
+    "name": "Dan Newmark",
+    "score": 7.5,
+    "why": "strategy/BM · partnerships · team/ops · AI/data sector  (Usa)",
+    "cap": "One",
+    "base": "Usa"
+   },
+   {
+    "name": "Veli-pekka Luoma",
+    "score": 7.5,
+    "why": "GTM/sales · strategy/BM · partnerships · cross-sector",
+    "cap": "Two",
+    "base": "Finland"
+   }
+  ]
+ },
+ {
+  "team": "Flowø",
+  "blurb": "AI governance for SMEs",
+  "needtags": [
+   "GTM/sales",
+   "Fundraising",
+   "Business model",
+   "Legal/IP"
+  ],
+  "matches": [
+   {
+    "name": "Pablo Mosquera",
+    "score": 7.0,
+    "why": "fundraising · strategy/BM · finance/legal/IP · cross-sector  (Spain)",
+    "cap": "One",
+    "base": "Spain"
+   },
+   {
+    "name": "Oriol Pascual",
+    "score": 6.5,
+    "why": "fundraising · strategy/BM · finance/legal/IP",
+    "cap": "Two",
+    "base": "Finland"
+   },
+   {
+    "name": "Indrajit Chaudjuri",
+    "score": 6.0,
+    "why": "GTM/sales · strategy/BM · AI/data sector",
+    "cap": "Two",
+    "base": "Finland"
+   }
+  ]
+ },
+ {
+  "team": "LEVIE",
+  "blurb": "Acoustic-levitation breath diagnostics",
+  "needtags": [
+   "GTM/sales",
+   "Fundraising",
+   "Business model",
+   "Legal/IP"
+  ],
+  "matches": [
+   {
+    "name": "Pablo Mosquera",
+    "score": 9.0,
+    "why": "fundraising · strategy/BM · finance/legal/IP · health sector  (Spain)",
+    "cap": "One",
+    "base": "Spain"
+   },
+   {
+    "name": "Oriol Pascual",
+    "score": 8.5,
+    "why": "fundraising · strategy/BM · finance/legal/IP · hardware sector",
+    "cap": "Two",
+    "base": "Finland"
+   },
+   {
+    "name": "Sagar Tandon",
+    "score": 7.5,
+    "why": "fundraising · strategy/BM · health sector",
+    "cap": "More",
+    "base": "Finland"
+   }
+  ]
+ },
+ {
+  "team": "Medfinity",
+  "blurb": "Med-student study platform",
+  "needtags": [
+   "GTM/sales",
+   "Business model",
+   "Partnerships",
+   "Team/hiring"
+  ],
+  "matches": [
+   {
+    "name": "Dan Newmark",
+    "score": 6.5,
+    "why": "strategy/BM · partnerships · team/ops · AI/data sector  (Usa)",
+    "cap": "One",
+    "base": "Usa"
+   },
+   {
+    "name": "Hanna Helin",
+    "score": 6.2,
+    "why": "GTM/sales · strategy/BM · partnerships · AI/data sector  (tentative, USA)",
+    "cap": "Two",
+    "base": "USA"
+   },
+   {
+    "name": "Sagar Tandon",
+    "score": 6.0,
+    "why": "strategy/BM · team/ops · health sector",
+    "cap": "More",
+    "base": "Finland"
+   }
+  ]
+ },
+ {
+  "team": "Ossify Health",
+  "blurb": "Fracture / osteoporosis risk decision support",
+  "needtags": [
+   "GTM/sales",
+   "Business model",
+   "Partnerships",
+   "Regulatory/clinical"
+  ],
+  "matches": [
+   {
+    "name": "Sagar Tandon",
+    "score": 6.0,
+    "why": "strategy/BM · health sector",
+    "cap": "More",
+    "base": "Finland"
+   },
+   {
+    "name": "Pablo Mosquera",
+    "score": 5.5,
+    "why": "strategy/BM · health sector  (Spain)",
+    "cap": "One",
+    "base": "Spain"
+   },
+   {
+    "name": "Veli-pekka Luoma",
+    "score": 5.5,
+    "why": "GTM/sales · strategy/BM · partnerships · cross-sector",
+    "cap": "Two",
+    "base": "Finland"
+   }
+  ]
+ },
+ {
+  "team": "RadiXpert AI",
+  "blurb": "AI radiology imaging",
+  "needtags": [
+   "Fundraising",
+   "Business model",
+   "Legal/IP",
+   "Partnerships",
+   "Regulatory/clinical"
+  ],
+  "matches": [
+   {
+    "name": "Pablo Mosquera",
+    "score": 9.5,
+    "why": "fundraising · strategy/BM · finance/legal/IP · health sector  (Spain)",
+    "cap": "One",
+    "base": "Spain"
+   },
+   {
+    "name": "Sagar Tandon",
+    "score": 9.5,
+    "why": "fundraising · strategy/BM · health sector",
+    "cap": "More",
+    "base": "Finland"
+   },
+   {
+    "name": "Anja Leissner",
+    "score": 8.5,
+    "why": "fundraising · strategy/BM · health sector  (tentative, Sweden)",
+    "cap": "One",
+    "base": "Sweden"
+   }
+  ]
+ },
+ {
+  "team": "Selkotili",
+  "blurb": "AI accounting & bookkeeping",
+  "needtags": [
+   "GTM/sales",
+   "Fundraising",
+   "Legal/IP",
+   "Partnerships"
+  ],
+  "matches": [
+   {
+    "name": "Sergio Rodrigues",
+    "score": 6.0,
+    "why": "GTM/sales · fundraising · AI/data sector  (Spain)",
+    "cap": "One",
+    "base": "Spain"
+   },
+   {
+    "name": "Hanna Helin",
+    "score": 5.7,
+    "why": "GTM/sales · partnerships · AI/data sector  (tentative, USA)",
+    "cap": "Two",
+    "base": "USA"
+   },
+   {
+    "name": "Veli-pekka Luoma",
+    "score": 5.5,
+    "why": "GTM/sales · partnerships · cross-sector",
+    "cap": "Two",
+    "base": "Finland"
+   }
+  ]
+ },
+ {
+  "team": "Straim",
+  "blurb": "B2B AI music streaming",
+  "needtags": [
+   "GTM/sales",
+   "Fundraising",
+   "Legal/IP",
+   "Team/hiring"
+  ],
+  "matches": [
+   {
+    "name": "Sergio Rodrigues",
+    "score": 6.0,
+    "why": "GTM/sales · fundraising · AI/data sector  (Spain)",
+    "cap": "One",
+    "base": "Spain"
+   },
+   {
+    "name": "Ramón",
+    "score": 5.3,
+    "why": "GTM/sales · team/ops · cross-sector",
+    "cap": "One",
+    "base": "Finland"
+   },
+   {
+    "name": "Asaf Wolff",
+    "score": 5.2,
+    "why": "GTM/sales · team/ops · cross-sector  (USA)",
+    "cap": "Two",
+    "base": "USA"
+   }
+  ]
+ },
+ {
+  "team": "Teal",
+  "blurb": "Automated scam-baiting",
+  "needtags": [
+   "GTM/sales",
+   "Business model",
+   "Legal/IP",
+   "Team/hiring",
+   "Product"
+  ],
+  "matches": [
+   {
+    "name": "Matti Aksela",
+    "score": 6.8,
+    "why": "strategy/BM · team/ops · product · AI/data sector",
+    "cap": "One",
+    "base": "Finland"
+   },
+   {
+    "name": "Andres Leonardo Martinez Ortiz",
+    "score": 6.5,
+    "why": "strategy/BM · team/ops · product · AI/data sector  (Switzerland)",
+    "cap": "One",
+    "base": "Switzerland"
+   },
+   {
+    "name": "Soma Sarkar",
+    "score": 6.5,
+    "why": "team/ops · product · software sector",
+    "cap": "Two",
+    "base": "Finland"
+   }
+  ]
+ },
+ {
+  "team": "Valox",
+  "blurb": "Green-chemistry photocatalysis",
+  "needtags": [
+   "GTM/sales",
+   "Fundraising",
+   "Business model",
+   "Partnerships"
+  ],
+  "matches": [
+   {
+    "name": "Sagar Tandon",
+    "score": 6.5,
+    "why": "fundraising · strategy/BM · climate sector",
+    "cap": "More",
+    "base": "Finland"
+   },
+   {
+    "name": "Oriol Pascual",
+    "score": 6.5,
+    "why": "fundraising · strategy/BM · hardware sector",
+    "cap": "Two",
+    "base": "Finland"
+   },
+   {
+    "name": "Veli-pekka Luoma",
+    "score": 6.5,
+    "why": "GTM/sales · strategy/BM · partnerships · cross-sector",
+    "cap": "Two",
+    "base": "Finland"
+   }
+  ]
+ },
+ {
+  "team": "White Hat",
+  "blurb": "AI construction PM (from assessment; no survey)",
+  "needtags": [
+   "GTM/sales",
+   "Fundraising",
+   "Business model",
+   "Partnerships",
+   "Team/hiring"
+  ],
+  "matches": [
+   {
+    "name": "Dan Newmark",
+    "score": 6.5,
+    "why": "strategy/BM · partnerships · team/ops · AI/data sector  (Usa)",
+    "cap": "One",
+    "base": "Usa"
+   },
+   {
+    "name": "Hanna Helin",
+    "score": 6.2,
+    "why": "GTM/sales · strategy/BM · partnerships · AI/data sector  (tentative, USA)",
+    "cap": "Two",
+    "base": "USA"
+   },
+   {
+    "name": "Sergio Rodrigues",
+    "score": 6.0,
+    "why": "GTM/sales · fundraising · AI/data sector  (Spain)",
+    "cap": "One",
+    "base": "Spain"
+   }
+  ]
+ }
+]
